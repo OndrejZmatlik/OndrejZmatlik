@@ -24,5 +24,5 @@
 
 
 ### Devices
-[![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-black?logo=raspberrypi&logoColor=fff&style=for-the-badge)](https://github.com/OndrejZmatlik)]
-[![Arduino Badge](https://img.shields.io/badge/Arduino-black?logo=arduino&logoColor=fff&style=for-the-badge)](https://github.com/OndrejZmatlik)]
+[![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-black?logo=raspberrypi&logoColor=fff&style=for-the-badge)](https://github.com/OndrejZmatlik)
+[![Arduino Badge](https://img.shields.io/badge/Arduino-black?logo=arduino&logoColor=fff&style=for-the-badge)](https://github.com/OndrejZmatlik)
