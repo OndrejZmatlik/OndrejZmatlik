@@ -5,10 +5,12 @@
 ### Languages
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/OndrejZmatlik)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/OndrejZmatlik)
+[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)](https://github.com/OndrejZmatlik)
+[![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B)](https://github.com/OndrejZmatlik)
 
 ### Technologies & Frameworks
-![Blazor](https://img.shields.io/badge/Blazor-black?style=for-the-badge&logo=blazor)
-![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-black?style=for-the-badge&logo=.net)
+[![Blazor](https://img.shields.io/badge/Blazor-black?style=for-the-badge&logo=blazor)(https://github.com/OndrejZmatlik)]
+[![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-black?style=for-the-badge&logo=.net)(https://github.com/OndrejZmatlik)]
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/OndrejZmatlik)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/OndrejZmatlik)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/OndrejZmatlik)
@@ -21,3 +23,6 @@
 
 
 
+### Devices
+[![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-black?logo=raspberrypi&logoColor=fff&style=for-the-badge)(https://github.com/OndrejZmatlik)]
+[![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)(https://github.com/OndrejZmatlik)]
