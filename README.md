@@ -1,4 +1,9 @@
 <h1 align="center">Welcome! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDkwZDNmNDJkNzJkNzU0OGU2MTFkNjZjZWJkNjg4ODY2M2U1ZTk5ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/21L6gUkqzAsnvZQ86N/giphy.gif" width="28px" alt="👋"></h1>
+<p align="center">
+     <a href="https://www.linkedin.com/in/ond%C5%99ej-zmatl%C3%ADk/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+    </a>
+</p>
 
 
 
