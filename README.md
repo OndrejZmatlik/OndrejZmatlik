@@ -10,8 +10,8 @@
 ### Languages
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/OndrejZmatlik)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/OndrejZmatlik)
-[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)](https://github.com/OndrejZmatlik)
-[![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B)](https://github.com/OndrejZmatlik)
+<!-- [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)](https://github.com/OndrejZmatlik)
+[![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B)](https://github.com/OndrejZmatlik) -->
 
 ### Technologies & Frameworks
 [![.NET Badge](https://img.shields.io/badge/.NET-black?logo=dotnet&logoColor=fff&style=for-the-badge)](https://github.com/OndrejZmatlik)
